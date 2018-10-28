@@ -47,7 +47,7 @@ app:
 # Marketing
 #
 marketing_header: Free your grocery budget # Optional
-marketing_desc: You find almond milk $2 off for $0.99 and think sweet deal right? While it’s a good deal for almond milk, it’s a terrible deal for your grocery budget. But how could savings $2 be a bad deal? Almond milk has a very poor calorie density per dollar. In order to have enough enough calories for a meal (about 800), you’d almost have to drink two gallons of almond milk which costs $8.<br><br>This is what &cent;runch is about—grading foods not just by price, but by how many calories they offer per cost. &cent;runch was inspired by the Mr Money Mustache <a href="http://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/">blog</a> which shows how you can slash the $1,000 grocery bill and average $1 per meal—that’s $90 in groceries per month!<br><br>So what would &cent;runch recommend instead of almond milk? If you spent the same $0.99 on a sale for 1 gallon of whole chocolate milk, that would buy you 3,500 calories. That’s over a day’s worth of meals in calories making it an A+ value.
+marketing_desc: Almond milk $2 off&mdash;sweet deal right? Think again, it’s a terrible deal for your budget. &cent;runch rates almond milk C grade food because you'd have to pay $8 to get a meal's worth of calories from almond milk. What is a better choice? &cent;runch rates chocolate milk an A+ grade food providing a meal's worth of calories for only $0.90!<br><br>Slash your grocery bill and join the movement. &cent;runch was by the <a href="http://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/">Mr Money Mustache blog</a>
 
 #
 # Social Links
@@ -87,7 +87,7 @@ device: iphone-se-silver-vertical # REQUIRED
 background_color: "#989898" # Optional
 background_image: /images/backgrounds/crunch-splash.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
-link_color: # Optional
+link_color: "#F53E45" ß# Optional
 social_link_color: white # Optional
 download_button_background_color: "#F53E45" #"#0191FF" # Optional
 download_button_text_color: white; # Optional
