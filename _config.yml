@@ -12,7 +12,7 @@ base_path: http://avnielapps.github.io/crunch
 # General App Info
 #
 app:
-  name: &cent;runch # REQUIRED - Enter your app name
+  name: ¢runch # REQUIRED - Enter your app name
   ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: app.crunch # Optional - Enter Android app id like: com.example.app
 
