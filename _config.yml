@@ -4,6 +4,10 @@
 
 # Be sure all REQUIRED fields are filled out!
 
+baseurl: "/crunch"
+production_url: http://avnielapps.github.io/crunch
+base_path: http://avnielapps.github.io/crunch
+
 #
 # General App Info
 #
