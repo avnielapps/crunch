@@ -47,7 +47,7 @@ app:
 # Marketing
 #
 marketing_header: Free your grocery budget # Optional
-marketing_desc:
+marketing_desc: You find almond milk $2 off for $0.99 and think sweet deal right? While it’s a good deal for almond milk, it’s a terrible deal for your grocery budget. But how could savings $2 be a bad deal? Almond milk has a very poor calorie density per dollar. In order to have enough enough calories for a meal (about 800), you’d almost have to drink two gallons of almond milk which costs $8.<br><br>This is what &cent;runch is about—grading foods not just by price, but by how many calories they offer per cost. &cent;runch was inspired by the Mr Money Mustache <a href="http://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/">blog</a> which shows how you can slash the $1,000 grocery bill and average $1 per meal—that’s $90 in groceries per month!<br><br>So what would &cent;runch recommend instead of almond milk? If you spent the same $0.99 on a sale for 1 gallon of whole chocolate milk, that would buy you 3,500 calories. That’s over a day’s worth of meals in calories making it an A+ value.
 
 #
 # Social Links
