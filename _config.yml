@@ -4,11 +4,11 @@
 
 # Be sure all REQUIRED fields are filled out!
 
-baseurl: "/crunch"
-production_url: https://avniel.app/crunch
-base_path: https://avniel.app/crunch
+baseurl: "/crunch/"
+production_url: https://avniel.app/crunch/
+base_path: https://avniel.app/crunch/
 
-url: https://avniel.app/crunch
+url: https://avniel.app/crunch/
 
 #
 # General App Info
