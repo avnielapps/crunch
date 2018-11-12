@@ -14,7 +14,7 @@ url: https://avniel.app/crunch/
 # General App Info
 #
 app:
-  name: ¢runch (beta) # REQUIRED - Enter your app name
+  name: ¢runch # REQUIRED - Enter your app name
   ios_id: 1440358478 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: app.crunch # Optional - Enter Android app id like: com.example.app
 
